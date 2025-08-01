@@ -56,76 +56,93 @@ See below what each button does.
 
 
 ## Navigate the Rooms
-You're in one of the 4 rooms available. Below, you'll find the explanation of the room interface.
+You're in one of the available rooms. Below, you'll find the explanation of the room interface.
 
-![Untitled (9)](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/881deb0a-b923-4b9a-9dc2-9bc2eee50945)
+<img width="1888" height="898" alt="Instruction2" src="https://github.com/user-attachments/assets/5a00231e-c2d7-44a6-b013-34f8e9d80eec" />
 
-
-- A. In this text box, you can insert your code to feed the robot agent. (look at the example for the format)
-- B. This is the room name.
-- C. Here you can find the explanation of the room.
-- D. Click "Go To Hallway" to return to the Hallway interface and leave the room.
-- E. Click "Run Code" to make your robot agent run code.
-- F. Click "Available Methods" to see which methods are available for the room. The methods are what your robot agent needs to use to work out an efficient solution!
-Clicking on this option opens a new window with the list of methods (see the example below)
-
-![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/7ef58a11-05e9-455d-aefe-1561236c96fb)
-
+- **A.** In this text box, you can insert your code to feed the robot agent. (look at the example for the format)
+- **B.** Click "Submit" to run your code.
+- **C.** This is the player name.
+- **D.** This is your health. Make sure to keep a close eye to it when you submit your code.
+- **E.** These are your keys number. You will get **1** key everytime that you complete a room. Get all the keys and your performance will be displayed in the **Global Leaderboard**.
+- **F.** Here you can see which room you are and a description of the challenge.
+- **G.** Click "Available Methods" to see which methods are available for the room. The methods are what you need to construct an algorithm and produce an efficient solution!
+- **H.** Click in any other option to have access to: **Rooms**, **History**, **Leaderboard**, **Information page**, **Reset** your run.
 
 ## Failing a Room
-If you run a code that doesn't solve the room, you will be prompted with a new window saying "You have not cleared the room".
+If you run a code that doesn't solve the room, you will be prompted with a new window saying **"You have not solved the room!"**.
 
-![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/61b254a0-95d9-4796-a5a1-a42dc8bdf33c)
+<img width="904" height="678" alt="image" src="https://github.com/user-attachments/assets/bbc6301f-f566-4795-87b6-e088d745bd78" />
 
-This is absolutely fine! Just click OK and keep trying!
+This is absolutely fine! Just close it and keep trying!
 
 Remember that if you get stuck, just proceed to the next room.
-
 
 ## Solving a Room
 If your code solves a room, you will be prompted with the following screen:
 
-![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/3ab4316c-ff20-4bb2-9a93-f04753d4f4d4)
+<img width="498" height="485" alt="image" src="https://github.com/user-attachments/assets/dd0ea281-c679-496c-ae77-2a889da34c51" />
 
-Your details on the left screen will change, reflecting how much energy is left, and adding a key to your inventory like in the screenshot below:
+Your details on the top of the screen will change, reflecting how much energy is left, and adding a key to your inventory like in the screenshot below:
 
-![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/1dba7f7e-0a76-49bc-ac10-5209b2b2b441)
+<img width="1270" height="45" alt="image" src="https://github.com/user-attachments/assets/c4142a0a-fa6e-43ff-bb57-a5dbb0d74b0d" />
 
 If you are not satisfied with the energy output produced from your solution, just use another algorithm.
 
-The agent will correct your health bar with the new energy used if the algorithm is more efficient.
+The portall will correct your health bar with the new energy used if the algorithm is more efficient.
 
 
 ## Completing the Escape Room Challenge
 To win the competition, you will have to gather all the keys from all the rooms.
 You gather keys each time you solve a room.
 
-In the screenshot below, you can see an example of somebody who completed all the rooms.
+If you complete all the rooms your name will enter in the **Global Leaderboard**. To see it navigate to **Leaderboard > Global**.
 
-![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/61366d9a-6c4a-4684-9fc7-4e8efe2aab17)
+<img width="1735" height="388" alt="image" src="https://github.com/user-attachments/assets/e5aa1c5f-d380-4315-b2f5-7edc97fc2fec" />
 
-However the energy output is negative, (see "Energy: -50") indicating that the person did completed the room but not in a very efficient way.
-The person can decide to re-start over and produce new efficient algorithm for one, or more of the rooms, and try to produce a better output.
+You can keep try to improve the algorithm of any room, this will improve your position in the Leaderboard!
 
-Once the person will be satisfied with the result can click "Escape".
-
-Your robot agent will produce an output file with the details of your teams and your algorithms. You will be also prompted with a message. Follow the instructions on the message and... congratulation for escaping!
+If you finish all the rooms... congratulation for escaping!
 
 
 ## Winning the Competition
 Completing the challenge and escape will not be enough to win the competition.
 
-The winning team needs to satisfied different parameters listed below:
+The winning user/team needs to be first in the leaderboard for the event so they need to have consumed the less amount of energy.
 
-- They need to share their output file for review.
-
-- They need to have produced algorithm that would work on different solution, e.g. would the algorithm find the exit of the Maze if I change the exit position?
-
-- They need to have consumed the less amount of energy.
-
-- In case of tie in terms of energy, the time will decide the winner. The team who took less  time to complete the challenge will be the winner.
+In case of tie in terms of energy, the time will decide the winner. The user/team who took less  time to complete the challenge will be the winner.
 
 Good luck to everyone, and have fun!!!
+
+
+## Templates
+Inside this repository you will be able to see a template for each of the room in a format that is either ***.py*** or ***.txt***.
+Feel free to copy this repository in your device, and use a chosen code editor to workout the solution.
+Use the template as base to resolve the rooms, or create your own code from scratch!
+
+Some templates contains multiple versions, for example, a version may contain import and one without import. One of the two template will help produce a more efficient code.
+
+**Each comment in the template** is there to tell you that something must be written instead of the comment.
+
+### Code example
+A code to solve a room will look like this:
+```
+def solve_room(do):
+	from mylibrary import library
+
+	start_info = do.look()
+	if do.at_exit():
+		return
+	else:
+		do.move()
+
+solve_room(do)
+```
+From the code above we can note few crucial things:
+- **The parameter of the function MUST be "(do)".**
+- **If you decide to import a library, the library must be wrapped inside the function and** **NOT** **outside.**
+- **Every available method needs a "do" in order to work (e.g. do.look()).**
+- **Remember to call the function at the of the algorithm (e.g. solve_room(do)).**  
 
 ## Hints
 These hints will help you solve the rooms. Some of them can be applied to more than one room.
@@ -166,8 +183,3 @@ list_to_be_filled = [item for item in item_set if item.is_wanted()]
 ### Hint 4
 Investigate parallel processing techniques to explore multiple paths simultaneously, potentially reducing the time required.
 Chosing a random value everytime may not be the best option.
-
-### Templates
-Inside the Green_Coding_Escape_Room folder you will find 4 templates. One for each room.
-The templates contain solutions to complete the rooms.
-The solutions are incomplete or ineficient, and is up to you to complete or improve them.
