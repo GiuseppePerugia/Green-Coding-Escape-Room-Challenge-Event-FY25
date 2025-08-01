@@ -39,14 +39,20 @@ See below what each button does.
 
 <img width="1696" height="718" alt="Instruction1" src="https://github.com/user-attachments/assets/8ba81c4b-06d5-4dbf-a599-669815f055ac" />
 
-- A. This is the landing page. The landing page contains a summary of what you can find in the portal.
-- B. The **Room** expands and shows the list of avaiable rooms! Click in one of the available rooms to start the challenge!
-- C. The **History** button will give you an overview of your attemps. If selected while in a room, it will provide a list of attempts of that room and at the top you will find your best attempt.
-- D. The **Leaderboard** button will show you 4 options:
--- **Global**. Here you will see the user that have completed the challenge and their position in the Leaderboard.
--- **Rooms**. Clicking on one of the room in leaderboard will give you a list of all users attempts in this particular room. You will not need to complete the challenge in orded to see your attempt in a room leaderboard.
-- E. The **Help** button will redirect you on the landing page (A).
-- F. This is the **Reset** button. Use it **ONLY** if you want to completely reset the challenge and create a new user.
+- **A.** This is the **Landing Page**. It contains a summary of what you can find in the portal.
+
+- **B.** The **Room** button expands to show the list of available rooms. Click on one of them to start the challenge!
+
+- **C.** The **History** button provides an overview of your attempts.  
+  - If selected while inside a room, it will show all your attempts in that specific room, with your best attempt highlighted at the top.
+
+- **D.** The **Leaderboard** button offers two views:
+  - **Global:** Displays all users who have completed the challenge and their positions on the leaderboard.
+  - **Rooms:** Shows all user attempts for each room. You do not need to complete the challenge to view your own attempt here.
+
+- **E.** The **Help** button will redirect you to the **Landing Page** (see A).
+
+- **F.** This is the **Reset** button. Use it **ONLY** if you want to completely reset your progress and create a new user.
 
 
 ## Navigate the Rooms
