@@ -7,7 +7,7 @@ Good luck!!!
 
 ## Start the Challenge
 1. Access the portal via the following link: https://d2qozj430lax8h.cloudfront.net/
-   You will be prompted with the following window:<br/>
+You will be prompted with the following window:<br/>
 <img width="590" height="457" alt="image" src="https://github.com/user-attachments/assets/8c1d201c-d548-4695-82fd-402d50f60734" />
 
 
