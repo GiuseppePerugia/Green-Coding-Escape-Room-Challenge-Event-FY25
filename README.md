@@ -9,16 +9,19 @@ Good luck!!!
 1. Access the portal via the following link: https://d2qozj430lax8h.cloudfront.net/
 
 You will be prompted with the following window:
+<img width="590" height="457" alt="image" src="https://github.com/user-attachments/assets/8c1d201c-d548-4695-82fd-402d50f60734" />
 
 
-2. Insert the password provided from the 
-3. Right-click on the file and click “Run main”.
-4. If everything went correctly, you will see the following screen:
-
-![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/b89b77fe-bdad-464e-96aa-a76423b070e1)
-
-5. Insert your team name under the "Enter Player Name" and click Submit.
-6. You're now in the Hallway of the challenge.
+2. Insert the password provided during this event - if you don't have a password, please, contact a member of the team.
+3. Once a valid password is inserted, you will be able to create a player:
+<img width="805" height="400" alt="image" src="https://github.com/user-attachments/assets/b150ef01-ce8c-496d-a367-92f1cbc0f5d7" />
+Naming restrictions are applied, so please, follow name correct naming convention.
+4. You will need to tick the "<i>I consent to the storage and use of my name related to my game progress</i>" box to be able to click <b>Create Player</b>.
+<i>NOTE: No private information is gathered. only the nickname used and performance.</i>
+5. If a valid username is inserted and the box ticked, you will see the following screen:
+<img width="880" height="490" alt="image" src="https://github.com/user-attachments/assets/8c69a35c-f22d-4634-9ccb-f00fdb8a0c85" />
+6. Click on <b>"Create Player"</b>
+7. You're now in the Hallway of the challenge.
 
 ![image](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/72241130-054a-46cf-9cac-17b1be00625c)
 
