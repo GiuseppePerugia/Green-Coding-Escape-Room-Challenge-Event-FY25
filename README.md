@@ -14,6 +14,7 @@ You will be prompted with the following window:
 
 2. Insert the password provided during this event - if you don't have a password, please, contact a member of the team.
 3. Once a valid password is inserted, you will be able to create a player:
+
 <img width="805" height="400" alt="image" src="https://github.com/user-attachments/assets/b150ef01-ce8c-496d-a367-92f1cbc0f5d7" />
 Naming restrictions are applied, so please, follow name correct naming convention.
 4. You will need to tick the "<i>I consent to the storage and use of my name related to my game progress</i>" box to be able to click <b>Create Player</b>.
