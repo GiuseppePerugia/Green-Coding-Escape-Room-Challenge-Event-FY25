@@ -1,0 +1,71 @@
+## Template that can work without Import
+def solve_maze(do):
+
+    # Create a set to keep track of visited rooms so you don't revisit
+    directions = ["N", "E", "S", "W"]
+    opposites = {"N": "S", "S": "N", "E": "W", "W": "E"}
+
+    def explore(pos):
+        # Check if you've been here before
+        # Mark this room as visited
+
+        # If at the exit, celebrate!
+        # Use do.at_exit() to check
+
+        # Look around: which directions have open doors?
+        look = do.look()
+        for d in directions:
+            if look["doors"][d] == "open":
+                # Move in that direction
+                do.move(d)
+                new_pos = tuple(do.look()["position"])
+                # Recursively explore from the new position
+                # If exit found, return True
+                # Otherwise, backtrack: move in the opposite direction to go back
+                do.move(opposites[d])
+        # If all directions explored, return False
+
+    start = tuple(do.look()["position"])
+    explore(start)
+
+solve_maze(do)
+
+## Template that can work with Import
+def solve_maze(do):
+    # Import suitable search collection
+
+    directions = ['N', 'S', 'E', 'W']
+    offsets = {'N': (0, -1), 'S': (0, 1), 'E': (1, 0), 'W': (-1, 0)}
+    opposites = {'N': 'S', 'S': 'N', 'E': 'W', 'W': 'E'}
+
+    visited = # Create a set to keep track of visited rooms so you don't revisit
+    queue = # Your chosen imported collection
+
+    start_info = do.look()
+    start = start_info['position']
+
+    visited.add(start)
+    queue.append((start, [])) 
+
+    while queue:
+        pos, path = queue.popleft()
+
+        # Move to the position along the stored path
+        # (use do.move with each direction in path)
+
+        # Check if at exit (use do.at_exit)
+
+        # Look around for open doors
+        look = do.look()
+        for d in directions:
+            # If door in direction d is open:
+                # Compute next position using offsets
+
+                # If next position not visited:
+                    # Mark it as visited
+                    # Add to queue with updated path (path + [d])
+
+        # Backtrack to where you started before processing next item
+        # (move in reverse order using opposites)
+
+solve_maze(do)
