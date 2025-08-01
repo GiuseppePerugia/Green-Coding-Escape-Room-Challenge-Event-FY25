@@ -30,24 +30,23 @@ Good luck!!!
 
 7. You're now in the Hallway of the challenge.
 
-   ![Hallway](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/72241130-054a-46cf-9cac-17b1be00625c)
+<img width="1741" height="912" alt="image" src="https://github.com/user-attachments/assets/fe5a8208-72b7-40b0-ab26-c34b8ddc020a" />
 
 
 ## Navigate the Hallway
 Now that you're in the Hallway, you can navigate through the challenges!
 See below what each button does.
 
-![Untitled (8)](https://github.com/GiuseppePerugia/Green_Coding_Escape_Room/assets/89920701/f187657b-8503-4b10-9185-3ba5ee7e9282)
+<img width="1696" height="718" alt="Instruction1" src="https://github.com/user-attachments/assets/8ba81c4b-06d5-4dbf-a599-669815f055ac" />
 
-
-- A. This is where you can enter one of the rooms and start to solve them! Click in one of the 4 rooms to start the challenge!
-- B. Here you will find the lore of the challenge. Click to understand what is going on!
-- C. This button does nothing since you're already in the Hallway.
-- D. Here you can see your name displayed.
-- E. This is the energy left for your robot agent. Keep an eye on it!
-- F. Here you can find the total time of work of your robot agent.
-- G. This is the total number of keys that you have retrieved. Solve a room to retrieve a key.
-- H. Here you have the escape button! If you have all the 4 keys, it's time to escape! Click the button!
+- A. This is the landing page. The landing page contains a summary of what you can find in the portal.
+- B. The **Room** expands and shows the list of avaiable rooms! Click in one of the available rooms to start the challenge!
+- C. The **History** button will give you an overview of your attemps. If selected while in a room, it will provide a list of attempts of that room and at the top you will find your best attempt.
+- D. The **Leaderboard** button will show you 4 options:
+-- **Global**. Here you will see the user that have completed the challenge and their position in the Leaderboard.
+-- **Rooms**. Clicking on one of the room in leaderboard will give you a list of all users attempts in this particular room. You will not need to complete the challenge in orded to see your attempt in a room leaderboard.
+- E. The **Help** button will redirect you on the landing page (A).
+- F. This is the **Reset** button. Use it **ONLY** if you want to completely reset the challenge and create a new user.
 
 
 ## Navigate the Rooms
