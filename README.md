@@ -50,7 +50,7 @@ See below what each button does.
   - **Global:** Displays all users who have completed the challenge and their positions on the leaderboard.
   - **Rooms:** Shows all user attempts for each room. You do not need to complete the challenge to view your own attempt here.
 
-    *Note: The Leaderboard has a cache time of 10 minutes, so it will refresh automatically every 10 minutes. If you don't see your attempt right away, please give it time to refresh.*
+    *Note: The Leaderboard has a cache time of 10 minutes, so it will refresh every 10 minutes. If you don't see your attempt right away, please press the REFRESH button.*
 
 - **E.** The **Help** button will redirect you to the **Landing Page** (see A).
 
@@ -102,7 +102,7 @@ If you complete all the rooms your name will enter in the **Global Leaderboard**
 
 <img width="1735" height="388" alt="image" src="https://github.com/user-attachments/assets/e5aa1c5f-d380-4315-b2f5-7edc97fc2fec" />
 
-*Note: The Leaderboard has a cache time of 10 minutes, so it will refresh automatically every 10 minutes. If you don't see your attempt right away, please give it time to refresh.*
+*Note: The Leaderboard has a cache time of 10 minutes, so it will refresh every 10 minutes. If you don't see your attempt right away, please press the REFRESH button.*
 
 You can keep try to improve the algorithm of any room, this will improve your position in the Leaderboard!
 
