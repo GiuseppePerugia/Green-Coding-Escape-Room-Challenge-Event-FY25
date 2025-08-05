@@ -102,9 +102,11 @@ If you complete all the rooms your name will enter in the **Global Leaderboard**
 
 <img width="1735" height="388" alt="image" src="https://github.com/user-attachments/assets/e5aa1c5f-d380-4315-b2f5-7edc97fc2fec" />
 
+*Note: The Leaderboard has a cache time of 10 minutes, so it will refresh automatically every 10 minutes. If you don't see your attempt right away, please give it time to refresh.*
+
 You can keep try to improve the algorithm of any room, this will improve your position in the Leaderboard!
 
-If you finish all the rooms... congratulation for escaping!
+If you finish all the rooms... congratulation for escaping and completing the challenge!
 
 
 ## Winning the Competition
