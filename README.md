@@ -49,7 +49,7 @@ See below what each button does.
 - **D.** The **Leaderboard** button offers two views:
   - **Global:** Displays all users who have completed the challenge and their positions on the leaderboard.
   - **Rooms:** Shows all user attempts for each room. You do not need to complete the challenge to view your own attempt here.
-    *Note: The Leaderboard has a cache time of 10 minutes, so it will refresh automatically every 10 minutes. If you don't see your attempt right away, please, give time to refresh.*
+  	*Note: The Leaderboard has a cache time of 10 minutes, so it will refresh automatically every 10 minutes. If you don't see your attempt right away, please, give time to refresh.*
 
 - **E.** The **Help** button will redirect you to the **Landing Page** (see A).
 
