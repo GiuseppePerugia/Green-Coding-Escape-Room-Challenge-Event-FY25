@@ -145,6 +145,7 @@ solve_room(do)
 From the code above we can note few crucial things:
 - **The parameter of the function MUST be "(do)".**
 - **If you decide to import a library, the library must be wrapped inside the function and** **NOT** **outside.**
+- **There is a list of allowed imports that you can use for this challenge: 'math', 'datetime', 'random', 'itertools', 'collections(deque)'. Each of these import may be usefull to efficiently complete the rooms!**
 - **Every available method needs a "do" in order to work (e.g. do.look()).**
 - **Remember to call the function at the of the algorithm (e.g. solve_room(do)).**  
 
