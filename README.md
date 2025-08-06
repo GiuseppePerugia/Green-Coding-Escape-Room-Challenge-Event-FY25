@@ -7,7 +7,7 @@ Good luck!!!
 
 ## Initial Disclaimer
 
-You can apporach on any way you prefer. You can go on and proceed to the next part, and start to use Code Runner in our portal and develop there your solution.
+You can apporach this challenge on any way you prefer. You can go on and proceed to the next part, and start to use Code Runner in our portal and develop there your solution.
 However, the Code Runner in our portal has some **limitations**.
 
 You will not able to execute **Ctrl+Z** or **Ctlr+Y** commands, meaning you can go back.
