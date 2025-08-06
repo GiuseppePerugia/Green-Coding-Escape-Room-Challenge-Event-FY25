@@ -7,10 +7,10 @@ Good luck!!!
 
 ## Initial Disclaimer
 
-You can apporach this challenge on any way you prefer. You can go on and proceed to the next part, and start to use Code Runner in our portal and develop there your solution.
+You can apporach this challenge in any way you prefer. You can go on and proceed to the next part, and start to use the Code Runner in our portal to develop there your solution.
 However, the Code Runner in our portal has some **limitations**.
 
-You will not able to execute **Ctrl+Z** or **Ctlr+Y** commands, meaning you can go back.
+You will be unable to use **Ctrl+Z** or **Ctlr+Y** commands, meaning you can't undo or redo actions.
 
 This may cause you to **lose some progress** on your code.
 
@@ -86,11 +86,11 @@ You're in one of the available rooms. Below, you'll find the explanation of the 
 - **A.** In this text box, you can insert your code to feed the robot agent. (look at the example for the format)
 - **B.** Click "Submit" to run your code.
 - **C.** This is the player name.
-- **D.** This is your health. Make sure to keep a close eye to it when you submit your code.
-- **E.** These are your keys number. You will get **1** key everytime that you complete a room. Get all the keys and your performance will be displayed in the **Global Leaderboard**.
+- **D.** This is your health. Make sure to keep a close eye on it when you submitting your code.
+- **E.** These are your keys number. You will receive **1** key every time you complete a room. Get all the keys and your performance will be displayed in the **Global Leaderboard**.
 - **F.** Here you can see which room you are and a description of the challenge.
 - **G.** Click "Available Methods" to see which methods are available for the room. The methods are what you need to construct an algorithm and produce an efficient solution!
-- **H.** Click in any other option to have access to: **Rooms**, **History**, **Leaderboard**, **Information page**, **Reset** your run.
+- **H.** Click any other option to access: **Rooms**, **History**, **Leaderboard**, **Information page**, **Reset** your run.
 
 ## Failing a Room
 If you run a code that doesn't solve the room, you will be prompted with a new window saying **"You have not solved the room!"**.
@@ -112,7 +112,7 @@ Your details on the top of the screen will change, reflecting how much energy is
 
 If you are not satisfied with the energy output produced from your solution, just use another algorithm.
 
-The portall will correct your health bar with the new energy used if the algorithm is more efficient.
+The portal will update your health bar with the new energy used if the algorithm is more efficient.
 
 
 ## Completing the Escape Room Challenge
@@ -133,19 +133,19 @@ If you finish all the rooms... congratulation for escaping and completing the ch
 ## Winning the Competition
 Completing the challenge and escape will not be enough to win the competition.
 
-The winning user/team needs to be first in the leaderboard for the event so they need to have consumed the less amount of energy.
+The winning user/team needs to be first in the leaderboard for the event so they need to have used the least amount of energy.
 
-In case of tie in terms of energy, the time will decide the winner. The user/team who took less  time to complete the challenge will be the winner.
+In case of tie in terms of energy, the time will decide the winner. The user/team who took less time to complete the challenge will be the winner.
 
 Good luck to everyone, and have fun!!!
 
 
 ## Templates
 Inside this repository you will be able to see a template for each of the room in a format that is either ***.py*** or ***.txt***.
-Feel free to copy this repository in your device, and use a chosen code editor to workout the solution.
+Feel free to copy this repository to your device, and use a chosen code editor to workout the solution.
 Use the template as base to resolve the rooms, or create your own code from scratch!
 
-Some templates contains multiple versions, for example, a version may contain import and one without import. One of the two template will help produce a more efficient code.
+Some templates contain multiple versions, for example, a version may contain import and one without import. One of the two template will help produce a more efficient code.
 
 **Each comment in the template** is there to tell you that something must be written instead of the comment.
 
@@ -172,7 +172,7 @@ From the code above we can note few crucial things:
 
 ## Hints
 These hints will help you solve the rooms. Some of them can be applied to more than one room.
-Is up to your team understand which hint can be applied where.
+Is up to your team to understand which hint applies where.
 
 ### Hint 1
 When working with multiple functions, lists, and lots of data, we want to always re-use things we have already worked out and filter down unneccesary data before passing it into another function. 
@@ -208,4 +208,4 @@ list_to_be_filled = [item for item in item_set if item.is_wanted()]
 ```
 ### Hint 4
 Investigate parallel processing techniques to explore multiple paths simultaneously, potentially reducing the time required.
-Chosing a random value everytime may not be the best option.
+Choosing a random value everytime may not be the best option.
