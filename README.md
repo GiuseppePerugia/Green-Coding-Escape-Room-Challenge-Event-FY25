@@ -5,6 +5,23 @@ Please, find below all the instructions on how to access our portal, play, and w
 
 Good luck!!!
 
+## Initial Disclaimer
+
+You can apporach on any way you prefer. You can go on and proceed to the next part, and start to use Code Runner in our portal and develop there your solution.
+However, the Code Runner in our portal has some **limitations**.
+
+You will not able to execute **Ctrl+Z** or **Ctlr+Y** commands, meaning you can go back.
+This may cause you to **lose some progress** on your code.
+
+Our suggested approach is to use a **Visual Studio Code** or an **IDE** of your choice to develop your algorithms.
+*Visual Studio Code Installation link: https://code.visualstudio.com/download*
+
+Once you have downloaded your chosen code editor, clone this repository locally via a terminal or power shell using:
+```
+git clone https://github.com/GiuseppePerugia/Green-Coding-Escape-Room-Challenge-Event-FY25.git
+```
+Once downloaded locally, open it via Visual Studio Code or the code editor of your choice and start working on the **.py Template**.
+
 ## Start the Challenge
 
 1. Access the portal via the following link:  
